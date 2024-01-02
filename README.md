@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/roberta-data-analytics/](https://sites.google.com/view/roberta-data-analytics/)
 
-- 📝 I regularly write articles on [Linkedin](Linkedin)
+- 📝 I regularly write articles on Linkedin
 
 - 💬 Ask me about **SQL, Power BI, data analysis, SSIS e Python**
 
