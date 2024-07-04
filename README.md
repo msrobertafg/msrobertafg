@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msrobertafg&label=Profile%20views&color=0e75b6&style=flat" alt="msrobertafg" /> </p>
 
-- 🔭 I’m currently working at **VR Mobilidade**
+- 🔭 I’m currently working at **Bank Inter**
 
 - 🌱 I’m currently learning **Python**
 
